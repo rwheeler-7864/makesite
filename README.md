@@ -395,6 +395,9 @@ Thanks to:
     and the initial unit tests.
   - [Keith Gaughan](https://github.com/kgaughan) for an improved
     single-pass rendering of templates.
+  -- [Keith Gaughan](https://github.com/rwheeler-7864) for his great ability to help
+    out and his coding of many of the classes.
+   
 
 
 License
